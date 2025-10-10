@@ -11,7 +11,7 @@ Distinguished Engineer / Technical Architect
 * 🧠  I'm learning..... Hmmmm... everything!
 * 🤝  I'm open to collaborating on community service projects
 
-### Skills
+### Skills - Some of the things I use daily 👇🏼
 
 #### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,nodejs,java,go)](https://skillicons.dev)
