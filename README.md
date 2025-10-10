@@ -23,7 +23,7 @@ Distinguished Engineer / Technical Architect
 [![Frontend Web Development](https://skillicons.dev/icons?i=express,nest,spring)](https://skillicons.dev)
 
 #### Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mysql,oracle,cassandra,dynamodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mysql,cassandra,dynamodb,oracle)](https://skillicons.dev)
 
 #### Devops
 [![Devops](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,postman,markdown,git,githubactions,splunk,newrelic)](https://skillicons.dev)
