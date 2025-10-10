@@ -29,4 +29,4 @@ Distinguished Engineer / Technical Architect
 [![Devops](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,markdown,git,githubactions,splunk,newrelic)](https://skillicons.dev)
 
 #### Others Skills
-[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,bots,playwright,insomnia,postman)](https://skillicons.dev)
+[![Others Skills](https://skills.syvixor.com/api/icons?perline=15&i=figma,discord,photoshop,cypress,npm,maven,gradle,bots,postman,playwright)](https://skillicons.dev)
