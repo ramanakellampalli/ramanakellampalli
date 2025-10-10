@@ -1,16 +1,32 @@
-## Hi there 👋
+![Profile View](https://komarev.com/ghpvc/?username=ramanakellampalli&style=flat-square)
 
-<!--
-**ramanakellampalli/ramanakellampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Ramana Kellampalli
+============================
+Distinguished Engineer / Technical Architect
+------------------------------------------------
+🎓 Computer Science Master's Graduate. (December 2016) - Chicago State University!
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Dallas - Fort Worth
+* ✉️  You can contact me at [mail](mailto:ramana.csu@gmail.com)
+* 🧠  I'm learning..... Hmmmm... everything!
+* 🤝  I'm open to collaborating on community service projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+#### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,nodejs,java,go)](https://skillicons.dev)
+
+#### Frontend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,vue)](https://skillicons.dev)
+
+#### Backend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=express,nest,spring)](https://skillicons.dev)
+
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mysql,oracle,cassandra,dynamodb)](https://skillicons.dev)
+
+#### Devops
+[![Devops](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,postman,markdown,git,githubactions,splunk,newrelic)](https://skillicons.dev)
+
+#### Others Skills
+[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,bots,playwright)](https://skillicons.dev)
