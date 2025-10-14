@@ -54,3 +54,9 @@ Distinguished Engineer / Technical Architect
 
 #### Others Skills
 [![Others Skills](https://skills.syvixor.com/api/icons?perline=15&i=figma,discord,photoshop,cypress,npm,maven,gradle,bots,postman,playwright)](https://skillicons.dev)
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanakellampalli&theme=radical&hide_border=true" />
+</p>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
