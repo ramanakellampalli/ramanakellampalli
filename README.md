@@ -29,9 +29,10 @@ Distinguished Engineer / Technical Architect
 ### 📊 GitHub Stats
 <P align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ramanakellampalli&show_icons=true&theme=radical&hide_border=true" alt="Ramana's GitHub Stats" style="width: 33%;" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanakellampalli&theme=radical" alt="Activity Graph" style="width: 33%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanakellampalli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 33%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ramanakellampalli&show_icons=true&theme=radical&hide_border=true" alt="Ramana's GitHub Stats" style="width: 24%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanakellampalli&theme=radical&hide_border=true" style="width: 24%;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanakellampalli&theme=radical" alt="Activity Graph" style="width: 24%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanakellampalli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 24%;" />
   </div>
 </p>
 
@@ -55,8 +56,6 @@ Distinguished Engineer / Technical Architect
 #### Others Skills
 [![Others Skills](https://skills.syvixor.com/api/icons?perline=15&i=figma,discord,photoshop,cypress,npm,maven,gradle,bots,postman,playwright)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramanakellampalli&theme=radical&hide_border=true" />
-</p>
+![GitHub Snake](https://github.com/ramanakellampalli/ramanakellampalli/blob/output/github-contribution-grid-snake.svg)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
