@@ -2,16 +2,13 @@
 <a href="https://github.com/ramanakellampalli?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/ramanakellampalli&color=orange" alt="Public Repositories" />
 
-Hi 👋 My name is Ramana Kellampalli
+Hi 👋 I’m Ramana Kellampalli
 ============================
-Distinguished Engineer / Technical Architect
+Distinguished Engineer | Technical Architect
 ------------------------------------------------
-🎓 Computer Science Master's Graduate. (December 2016) - Chicago State University!
+🎓 Master's in Computer Science - Chicago State University (Dec 2016)
 
-* 🌍  I'm based in Dallas - Fort Worth
-* ✉️  You can contact me at [mail](mailto:ramana.csu@gmail.com)
-* 🧠  I'm learning..... Hmmmm... everything!
-* 🤝  I'm open to collaborating on community service projects
+I build scalable software systems, explore new tech stacks, and contribute to community projects.
 
 ### 📫 Contact Me
 <p align="left">
