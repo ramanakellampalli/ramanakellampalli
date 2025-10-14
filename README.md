@@ -27,14 +27,13 @@ Distinguished Engineer / Technical Architect
 </p>
 
 ### 📊 GitHub Stats
-<div align="center">
+<P align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ramanakellampalli&show_icons=true&theme=radical&hide_border=true" alt="Ramana's GitHub Stats" style="width: 33%;" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramanakellampalli&theme=radical" alt="Activity Graph" style="width: 33%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanakellampalli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 33%;" />
   </div>
-</a>
-</div>
+</p>
 
 ### Skills - Some of the things I use daily 👇🏼
 
