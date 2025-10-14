@@ -1,21 +1,26 @@
 name: Generate Snake Animation
 
+# allow write permission to repo contents so GITHUB_TOKEN can push
+permissions:
+  contents: write
+
 on:
-  schedule: # runs every 24 hours
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # allows manual run
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
   build:
-    name: Generate Snake
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
