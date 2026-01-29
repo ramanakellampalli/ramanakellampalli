@@ -70,4 +70,10 @@
 
 ---
 
-<sub>Thanks for visiting! Feel free to explore my repositories and connect with me. 🚀</sub>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+**Thanks for visiting! Feel free to explore my repositories and connect with me.** 🚀
+
+</div>
